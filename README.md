@@ -20,3 +20,5 @@ Yeah, I know I'm gonna get asked this question. So to answer it:
 ## Further Information
 
 More information about Linux 0.01, and later versions, can be gleamed from [Gunkies Computer History Wiki](https://gunkies.org/wiki/Linux_0.01). While you're there, check out some other pages about historic Unix and other operating systems!
+
+Happy hacking! :)
